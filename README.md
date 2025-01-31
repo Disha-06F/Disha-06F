@@ -1,9 +1,8 @@
 ![logo](https://github.com/Disha-06F/Disha-06F/blob/main/image.jpg)
 <h1 align="center">Hi 👋, I'm Joti</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-<img align="Right" alt="data science" width="400" src="https://camo.githubusercontent.com/e830b86b9f7e9bf172a3e867645e393cb9d15e8b0b59c8a1bd3eefd0fa73258e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4c696f71324f435132624941414141432f6c616c61617274776f726b2d6c616c612e676966">
+<img align="Right" alt="data science" width="400" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha-06f&label=Profile%20views&color=0e75b6&style=flat" alt="disha-06f" /> </p>
 
 - 🌱 I’m currently learning **Python and MATLAB**
 
