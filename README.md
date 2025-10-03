@@ -1,7 +1,6 @@
 ![logo](https://github.com/Disha-06F/Disha-06F/blob/main/image.jpg)
 <h1 align="center">Hi 👋, I'm Joti</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
-<img align="Right" alt="data science" width="300" height="300" src="Exploring.jpg">
 
 
 - 🌱 I’m currently learning **Python and MATLAB**
